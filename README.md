@@ -1,4 +1,4 @@
-# Web-Scraping-IMDB_TOP_Movies
+# Web-ScrapingIMDB_TOP_Movies
 Web scraping script that extracts data from IMDb using Python, BeautifulSoup, and Requests.
 The scraper collects movie title, year and, rating saves the data into a CSV file for analysis.
 
